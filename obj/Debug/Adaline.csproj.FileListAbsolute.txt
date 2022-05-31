@@ -1,0 +1,10 @@
+C:\Users\Jose\Documents\T2022A\IA2\Adaline\obj\Debug\Adaline.csproj.AssemblyReference.cache
+C:\Users\Jose\Documents\T2022A\IA2\Adaline\obj\Debug\Adaline.Form1.resources
+C:\Users\Jose\Documents\T2022A\IA2\Adaline\obj\Debug\Adaline.Properties.Resources.resources
+C:\Users\Jose\Documents\T2022A\IA2\Adaline\obj\Debug\Adaline.csproj.GenerateResource.cache
+C:\Users\Jose\Documents\T2022A\IA2\Adaline\obj\Debug\Adaline.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\T2022A\IA2\Adaline\bin\Debug\Adaline.exe.config
+C:\Users\Jose\Documents\T2022A\IA2\Adaline\bin\Debug\Adaline.exe
+C:\Users\Jose\Documents\T2022A\IA2\Adaline\bin\Debug\Adaline.pdb
+C:\Users\Jose\Documents\T2022A\IA2\Adaline\obj\Debug\Adaline.exe
+C:\Users\Jose\Documents\T2022A\IA2\Adaline\obj\Debug\Adaline.pdb
